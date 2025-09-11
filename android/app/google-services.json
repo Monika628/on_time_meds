@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134539616382",
+    "project_id": "on-time-meds",
+    "storage_bucket": "on-time-meds.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134539616382:android:5ec83cf5a41aedefa3782f",
+        "android_client_info": {
+          "package_name": "com.pill_reminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoIsvfd20Cz8fzVAQmvd739Ao0OAY8-1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134539616382:android:bd34a8f423840ee1a3782f",
+        "android_client_info": {
+          "package_name": "com.techqrt_voice_recorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoIsvfd20Cz8fzVAQmvd739Ao0OAY8-1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
